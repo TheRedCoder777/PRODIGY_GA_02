@@ -18,3 +18,9 @@ How It Works:
 2. The Stable Diffusion model processes the input and generates an image.
 3. The generated image is saved in the static/ directory.
 4. The image is displayed on the webpage and can be downloaded.
+
+Usage:
+1. Enter a creative text prompt (e.g., "A futuristic city at sunset").
+2. Click "Generate" to create an AI-generated image.
+3. View the generated image on the webpage.
+4. Click "Download" to save the image.
